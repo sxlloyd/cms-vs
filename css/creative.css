@@ -177,8 +177,8 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-    color: #0266a0;
-    background-image: url(http://www.videostorm.io.s3.amazonaws.com/img/upload.png);
+    color: #fff;
+    background-image: url(https://s3-eu-west-1.amazonaws.com/backgrounds-storm-io/camera3.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
